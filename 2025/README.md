@@ -12,6 +12,6 @@ Navigate into the directory you like to see the solution for and execute: `go ru
 
 You can use [QB64](https://qb64.com/) for the QBasic emulation.
 
-- [Day 2 - Secret Entrance](day1/puzzles.bas)
+- [Day 1 - Secret Entrance](day1/puzzles.bas)
 
 
