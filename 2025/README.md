@@ -8,6 +8,7 @@ Navigate into the directory you like to see the solution for and execute: `go ru
 
 - [Day 1 - Secret Entrance](day1/main.go)
 - [Day 2 - Gift Shop](day2/main.go)
+- [Day 3 - Lobby](day3/main.go)
 
 ## QuickBasic
 
